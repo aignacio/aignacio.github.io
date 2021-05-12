@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://aignacio.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 May 2021 15:03:51 +0100</lastBuildDate><atom:link href="https://aignacio.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cdc</title>
+      <link>https://aignacio.com/series/cdc/</link>
+      <pubDate>Sat, 08 May 2021 15:03:51 +0100</pubDate>
+      
+      <guid>https://aignacio.com/series/cdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hdl</title>
+      <link>https://aignacio.com/series/hdl/</link>
+      <pubDate>Sat, 08 May 2021 15:03:51 +0100</pubDate>
+      
+      <guid>https://aignacio.com/series/hdl/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>others</title>
       <link>https://aignacio.com/series/others/</link>
