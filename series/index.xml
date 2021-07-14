@@ -10,22 +10,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 May 2021 15:03:51 +0100</lastBuildDate><atom:link href="https://aignacio.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jul 2021 13:10:00 +0100</lastBuildDate><atom:link href="https://aignacio.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hdl</title>
+      <link>https://aignacio.com/series/hdl/</link>
+      <pubDate>Sat, 10 Jul 2021 13:10:00 +0100</pubDate>
+      
+      <guid>https://aignacio.com/series/hdl/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cdc</title>
       <link>https://aignacio.com/series/cdc/</link>
       <pubDate>Sat, 08 May 2021 15:03:51 +0100</pubDate>
       
       <guid>https://aignacio.com/series/cdc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hdl</title>
-      <link>https://aignacio.com/series/hdl/</link>
-      <pubDate>Sat, 08 May 2021 15:03:51 +0100</pubDate>
-      
-      <guid>https://aignacio.com/series/hdl/</guid>
       <description></description>
     </item>
     

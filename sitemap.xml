@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aignacio.com/posts/hdls/mpsoc_riscv/</loc>
+    <lastmod>2021-07-10T13:10:00+01:00</lastmod>
+  </url><url>
     <loc>https://aignacio.com/posts/hdls/cdc_lib/</loc>
     <lastmod>2021-05-08T15:03:51+01:00</lastmod>
   </url><url>
@@ -9,7 +12,25 @@
     <lastmod>2021-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aignacio.com/</loc>
-    <lastmod>2021-05-08T15:03:51+01:00</lastmod>
+    <lastmod>2021-07-10T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>https://aignacio.com/posts/hdls/</loc>
+    <lastmod>2021-07-10T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>https://aignacio.com/tags/hdl/</loc>
+    <lastmod>2021-07-10T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>https://aignacio.com/series/hdl/</loc>
+    <lastmod>2021-07-10T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>https://aignacio.com/posts/</loc>
+    <lastmod>2021-07-10T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>https://aignacio.com/series/</loc>
+    <lastmod>2021-07-10T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>https://aignacio.com/tags/</loc>
+    <lastmod>2021-07-10T13:10:00+01:00</lastmod>
   </url><url>
     <loc>https://aignacio.com/categories/</loc>
     <lastmod>2021-05-08T15:03:51+01:00</lastmod>
@@ -26,22 +47,7 @@
     <loc>https://aignacio.com/categories/hdl/</loc>
     <lastmod>2021-05-08T15:03:51+01:00</lastmod>
   </url><url>
-    <loc>https://aignacio.com/posts/hdls/</loc>
-    <lastmod>2021-05-08T15:03:51+01:00</lastmod>
-  </url><url>
-    <loc>https://aignacio.com/series/hdl/</loc>
-    <lastmod>2021-05-08T15:03:51+01:00</lastmod>
-  </url><url>
-    <loc>https://aignacio.com/posts/</loc>
-    <lastmod>2021-05-08T15:03:51+01:00</lastmod>
-  </url><url>
-    <loc>https://aignacio.com/series/</loc>
-    <lastmod>2021-05-08T15:03:51+01:00</lastmod>
-  </url><url>
     <loc>https://aignacio.com/tags/system_verilog/</loc>
-    <lastmod>2021-05-08T15:03:51+01:00</lastmod>
-  </url><url>
-    <loc>https://aignacio.com/tags/</loc>
     <lastmod>2021-05-08T15:03:51+01:00</lastmod>
   </url><url>
     <loc>https://aignacio.com/tags/others/</loc>
